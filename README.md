@@ -1,0 +1,2 @@
+# temperature-sensing-motor-MPBS
+Implement a microcontroller application for a temperature-controlled DC Fan Motor using various resources. The fan motor must be operated at different speed limits according to some threshold values of ambient room temperature. The temperature sensor output is analog signal hence an ADC is to be interfaced with the microcontroller. Speed control must be achieved using Pulse Width Modulation (PWM) technique. Additionally, the application must have a provision of manually switching the fan ON and OFF, bypassing the temperature sensor results.
